@@ -50,6 +50,9 @@ public class Test1 {
 	public void afterSuite()
 	{
 		System.out.println("after suite");
+		System.out.println("after suite");
+		System.out.println("after suite");
+		System.out.println("after suite");
 	}
 
 }
