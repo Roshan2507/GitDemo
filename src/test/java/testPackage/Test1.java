@@ -14,6 +14,7 @@ public class Test1 {
 		System.out.println("HomePage");
 		System.out.println(user);
 		System.out.println(pass);
+		
 	}
 	@Parameters({"URL"})
 	@Test(groups= {"Smoke"})
@@ -53,6 +54,12 @@ public class Test1 {
 		System.out.println("after suite");
 		System.out.println("after suite");
 		System.out.println("after suite");
+		System.out.println("after suite");
+		System.out.println("after ");
+		System.out.println("after ");
+
+
+		
 	}
 
 }
